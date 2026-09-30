@@ -9,3 +9,5 @@ I'm currently studying at [Imperial College London](https://www.imperial.ac.uk/s
 
 During my free time, I like to watch football and play badminton.
 
+----
+last updated: 2026-09-30
