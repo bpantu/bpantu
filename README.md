@@ -5,5 +5,7 @@ Hi, my name is Best, and I'm from Bangkok, Thailand. I did my undergraduate stud
 - Statistical Inference
 - Machine Learning
 
+I'm currently studying at [Imperial College London](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/)
+
 During my free time, I like to watch football and play badminton.
 
